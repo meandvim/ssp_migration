@@ -35,10 +35,10 @@ import am_aix_lvm
 main_rc = 0
 
 # }}}
-# Metro Info#{{{
+#  Info#{{{
 # ----------------------------------------------------------------------------
 #
-# NAME:         lyceus.py
+# NAME:         migratevm.py
 #
 # Purpose:      
 #
